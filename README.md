@@ -1,4 +1,4 @@
-This is the code for the [Introduction to Data Science](https://rafalab.github.io/dsbook/) class notes。
+This is the code for the [Introduction to Data Science](https://rafalab.github.io/dsbook/) class notes.
 
 [Book web page](https://rafalab.github.io/dsbook/)
 
